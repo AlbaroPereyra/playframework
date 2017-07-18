@@ -15,7 +15,7 @@ Update the Play version number in `project/plugins.sbt` to upgrade Play:
 addSbtPlugin("com.typesafe.play" % "sbt-plugin" % "2.6.x")
 ```
 
-Where the "x" in `2.6.x` is the minor version of Play you want to use, for instance `2.6.0`.
+Where the "x" in `2.6.x` is the minor version of Play you want to use, for instance `2.6.1`.
 
 ### sbt upgrade to 0.13.15
 
